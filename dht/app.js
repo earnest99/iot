@@ -34,10 +34,15 @@ parser.on('data', function (data) {
     console.log('cds: ' + cds);
     io.emit('cds', cds);
   }
-  if (rcv.substring(0, 3) == 'adc') {
+  /*if (rcv.substring(0, 3) == 'adc') {
     var adc = parseInt(rcv.substring(3)); // 습도 값을 숫자로 변환
     console.log('adc: ' + adc);
     io.emit('adc', adc);
+  }*/
+  if (rcv.substring(0, 1) == 'T') {
+    var temp = parseInt(rcv.substring(1,3)); // 습도 값을 숫자로 변환
+    console.log('temp: ' + temp);
+    io.emit('temp', temp);
   }
 });
 
