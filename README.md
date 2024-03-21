@@ -23,7 +23,7 @@ face폴더
 * cctv_streaming.py 스트리밍 서버 오픈 (port=5000)
 
 ### 온도습도조도
-* arduino_environment 폴더의 아두이노코드
+arduino_environment 폴더의 아두이노코드
 
 * environment_send.py 아두이노에서 받은 데이터를 서버로 전송
 
