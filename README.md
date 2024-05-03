@@ -5,6 +5,7 @@
 결과영상 : <https://www.youtube.com/watch?v=4ZsCijXwrUQ>
 
 ---
+## 사용기술
 ### 서버 (백앤드)
 파이어베이스 서버 개설
 
