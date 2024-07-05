@@ -2,7 +2,7 @@
 
 교육용 팩토리 장비 2대 사용, 웹캠 2개사용
 
-결과영상 : <https://www.youtube.com/watch?v=4ZsCijXwrUQ>
+결과영상 : <[https://www.youtube.com/watch?v=4ZsCijXwrUQ](https://youtu.be/HHvmpYC5zhw?si=HAhao3oyx9hmv98j)>
 
 ---
 ## 사용기술
